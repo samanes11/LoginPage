@@ -20,3 +20,7 @@ This repository contains a beautifully designed **Login & Register Page** built 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/samanes11/LoginPage.git
+
+
+This is a uservice project from Turing Research Team.
+<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
