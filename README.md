@@ -14,7 +14,7 @@ This repository contains a beautifully designed **Login & Register Page** built 
 - **JavaScript** for interactivity  
 
 ## 📷 Preview
-![Login Page](./Log in.png)
+<img src="https://github.com/samanes11/LoginPage/blob/master/Log%20in.png"/>
 
 ## 🚀 Getting Started
 1. Clone the repository:  
